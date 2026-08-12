@@ -3,6 +3,7 @@
 
 ## Description
 This project uses 'Ecommerce customers' Data (Made-up data) of imaginary company that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.  
+
 We used a linear regression model to predict the 'Yearly Amount Spent' by the customers based on number of features. And on the basis of regression coefficients of the model, decide whether 'mobile app' or 'Website' results in greater 'Yearly Amount Spent' by the customers.
 
 ## 📋 Summary
