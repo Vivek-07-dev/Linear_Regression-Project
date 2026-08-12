@@ -50,8 +50,7 @@ The raw dataset includes the following core fields:
 * **Model Evaluation:** Evaluated predictions using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and $R^2$ score.
 * **Residual Analysis:** Plotted residual histograms to ensure a normal distribution of errors.
 
-## 📈 Key Insights
-Coefficient Analysis  
+## 📈 Coefficient Analysis
 Holding all other features fixed, a 1-unit increase in:  
 Avg. Session Length $\rightarrow$ +$25.98 spent  
 Time on App $\rightarrow$ +$38.59 spent  
