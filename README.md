@@ -58,7 +58,7 @@ Time on Website $\rightarrow$ +$0.19 spent
 Length of Membership $\rightarrow$ +$61.27 spent  
 
 ## Conclusion: 
-Company should focus more on their mobile app, as Time on Website is barely increasing customer's Yearly Amount Spent
+Company should focus more on their mobile app, as Time on Website is barely increasing customer's yearly spending.
 
 
 ## 👥 Author
